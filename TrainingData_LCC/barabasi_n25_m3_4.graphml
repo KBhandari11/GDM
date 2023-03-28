@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+
+  <!-- property keys -->
+  <key id="key0" for="node" attr.name="chi_degree" attr.type="float" />
+  <key id="key1" for="node" attr.name="chi_lcc" attr.type="float" />
+  <key id="key2" for="node" attr.name="clustering_coefficient" attr.type="float" />
+  <key id="key3" for="node" attr.name="degree" attr.type="float" />
+  <key id="key4" for="node" attr.name="eigenvectors" attr.type="float" />
+  <key id="key5" for="graph" attr.name="filename" attr.type="string" />
+  <key id="key6" for="node" attr.name="k_4" attr.type="string" />
+  <key id="key7" for="node" attr.name="kcore" attr.type="float" />
+  <key id="key8" for="node" attr.name="pagerank_out" attr.type="float" />
+  <key id="key9" for="node" attr.name="static_id" attr.type="int" />
+  <key id="key10" for="node" attr.name="t_0.18" attr.type="float" />
+  <key id="key11" for="node" attr.name="t_0.6" attr.type="string" />
+  <key id="key12" for="node" attr.name="vertex_betweenness_out" attr.type="float" />
+
+  <graph id="G" edgedefault="undirected" parse.nodeids="free" parse.edgeids="free" parse.order="nodesfirst">
+
+   <!-- graph properties -->
+   <data key="key5">barabasi_n25_m3_4</data>
+
+   <!-- vertices -->
+    <node id="0">
+      <data key="key0">0.30138528138528164</data>
+      <data key="key1">0.036853358381027802</data>
+      <data key="key2">0.26666666666666666</data>
+      <data key="key3">0.7142857142857143</data>
+      <data key="key4">0.32889159734229501</data>
+      <data key="key6">0.5</data>
+      <data key="key7">1</data>
+      <data key="key8">0.07050213052431227</data>
+      <data key="key9">0</data>
+      <data key="key10">1</data>
+      <data key="key12">0.14227628249367383</data>
+    </node>
+    <node id="3">
+      <data key="key0">1.0286580086580093</data>
+      <data key="key1">0.071527354708750754</data>
+      <data key="key2">0.21978021978021978</data>
+      <data key="key3">1</data>
+      <data key="key4">0.43180375117359754</data>
+      <data key="key6">1.0</data>
+      <data key="key7">1</data>
+      <data key="key8">0.09930489108572875</data>
+      <data key="key9">1</data>
+      <data key="key10">1</data>
+      <data key="key11">1.0</data>
+      <data key="key12">0.28041321601104213</data>
+    </node>
+    <node id="4">
+      <data key="key0">0.04002164502164509</data>
+      <data key="key1">0.026021269417828698</data>
+      <data key="key2">0.2857142857142857</data>
+      <data key="key3">0.5</data>
+      <data key="key4">0.24375393456247743</data>
+      <data key="key6">0.5</data>
+      <data key="key7">1</data>
+      <data key="key8">0.050404466522065587</data>
+      <data key="key9">2</data>
+      <data key="key10">1</data>
+      <data key="key11">1.0</data>
+      <data key="key12">0.065852887048539213</data>
+    </node>
+    <node id="6">
+      <data key="key0">0.44261904761904791</data>
+      <data key="key1">0.044725461956251669</data>
+      <data key="key2">0.25454545454545452</data>
+      <data key="key3">0.7857142857142857</data>
+      <data key="key4">0.35255007129892907</data>
+      <data key="key7">1</data>
+      <data key="key8">0.077273291106172495</data>
+      <data key="key9">3</data>
+      <data key="key10">1</data>
+      <data key="key11">1.0</data>
+      <data key="key12">0.17312801932367153</data>
+    </node>
+    <node id="8">
+      <data key="key0">0.0070129870129870316</data>
+      <data key="key1">0.016892256195743693</data>
+      <data key="key2">0.46666666666666667</data>
+      <data key="key3">0.42857142857142855</data>
+      <data key="key4">0.23327857123646806</data>
+      <data key="key7">1</data>
+      <data key="key8">0.044026176718204045</data>
+      <data key="key9">4</data>
+      <data key="key10">0.5</data>
+      <data key="key12">0.029809351276742578</data>
+    </node>
+    <node id="11">
+      <data key="key0">0.10008658008658017</data>
+      <data key="key1">0.010778875483895793</data>
+      <data key="key2">0.32142857142857145</data>
+      <data key="key3">0.5714285714285714</data>
+      <data key="key4">0.26584506890652776</data>
+      <data key="key6">1.0</data>
+      <data key="key7">1</data>
+      <data key="key8">0.058242322241702116</data>
+      <data key="key9">5</data>
+      <data key="key10">0.5</data>
+      <data key="key12">0.09079825166781684</data>
+    </node>
+    <node id="13">
+      <data key="key0">0.022164502164502137</data>
+      <data key="key1">0.0071669971789806216</data>
+      <data key="key2">0.33333333333333331</data>
+      <data key="key3">0.2857142857142857</data>
+      <data key="key4">0.15938910113189472</data>
+      <data key="key7">1</data>
+      <data key="key8">0.031097243247807559</data>
+      <data key="key9">6</data>
+      <data key="key10">0</data>
+      <data key="key12">0.021920289855072463</data>
+    </node>
+    <node id="17">
+      <data key="key0">0.022164502164502137</data>
+      <data key="key1">0.0071669971789806216</data>
+      <data key="key2">0.33333333333333331</data>
+      <data key="key3">0.2857142857142857</data>
+      <data key="key4">0.13868865169369771</data>
+      <data key="key7">1</data>
+      <data key="key8">0.031248052933036553</data>
+      <data key="key9">7</data>
+      <data key="key10">0</data>
+      <data key="key12">0.017934782608695653</data>
+    </node>
+    <node id="18">
+      <data key="key0">0.022164502164502137</data>
+      <data key="key1">0.033718983745946424</data>
+      <data key="key2">0.5</data>
+      <data key="key3">0.2857142857142857</data>
+      <data key="key4">0.13183750919609838</data>
+      <data key="key7">1</data>
+      <data key="key8">0.031722790898033988</data>
+      <data key="key9">8</data>
+      <data key="key10">0.5</data>
+      <data key="key12">0.0089975845410628016</data>
+    </node>
+    <node id="19">
+      <data key="key0">0.070324675324675276</data>
+      <data key="key1">0.20422509827303184</data>
+      <data key="key2">0.66666666666666663</data>
+      <data key="key3">0.21428571428571427</data>
+      <data key="key4">0.13733360258836985</data>
+      <data key="key7">1</data>
+      <data key="key8">0.024143718118595184</data>
+      <data key="key9">9</data>
+      <data key="key10">0</data>
+      <data key="key12">0.0013083735909822868</data>
+    </node>
+    <node id="22">
+      <data key="key0">0.070324675324675276</data>
+      <data key="key1">0.20422509827303184</data>
+      <data key="key2">0.66666666666666663</data>
+      <data key="key3">0.21428571428571427</data>
+      <data key="key4">0.097148565521188432</data>
+      <data key="key7">1</data>
+      <data key="key8">0.025149846921736042</data>
+      <data key="key9">10</data>
+      <data key="key10">0</data>
+      <data key="key12">0.00090579710144927537</data>
+    </node>
+    <node id="1">
+      <data key="key0">0.24781385281385268</data>
+      <data key="key1">0.38592540792540803</data>
+      <data key="key2">0</data>
+      <data key="key3">0.071428571428571425</data>
+      <data key="key4">0.064799593800191221</data>
+      <data key="key7">0.33333333333333331</data>
+      <data key="key8">0.012029229658476574</data>
+      <data key="key9">11</data>
+      <data key="key10">0</data>
+      <data key="key12">0</data>
+    </node>
+    <node id="2">
+      <data key="key0">0.0070129870129870316</data>
+      <data key="key1">0.00051329645055258244</data>
+      <data key="key2">0.40000000000000002</data>
+      <data key="key3">0.42857142857142855</data>
+      <data key="key4">0.23370569530363197</data>
+      <data key="key7">1</data>
+      <data key="key8">0.043622919519041847</data>
+      <data key="key9">12</data>
+      <data key="key10">0</data>
+      <data key="key12">0.028209109730848857</data>
+    </node>
+    <node id="5">
+      <data key="key0">0.0070129870129870316</data>
+      <data key="key1">0.016892256195743693</data>
+      <data key="key2">0.46666666666666667</data>
+      <data key="key3">0.42857142857142855</data>
+      <data key="key4">0.20526090923302739</data>
+      <data key="key7">1</data>
+      <data key="key8">0.044084083226827879</data>
+      <data key="key9">13</data>
+      <data key="key10">1</data>
+      <data key="key11">1.0</data>
+      <data key="key12">0.021954796411318152</data>
+    </node>
+    <node id="12">
+      <data key="key0">0.0070129870129870316</data>
+      <data key="key1">0.036853358381027802</data>
+      <data key="key2">0.26666666666666666</data>
+      <data key="key3">0.42857142857142855</data>
+      <data key="key4">0.18663798582640462</data>
+      <data key="key6">0.5</data>
+      <data key="key7">1</data>
+      <data key="key8">0.045289927819382042</data>
+      <data key="key9">14</data>
+      <data key="key10">0.5</data>
+      <data key="key12">0.043699677938808371</data>
+    </node>
+    <node id="7">
+      <data key="key0">0.001060606060606051</data>
+      <data key="key1">0.00051329645055258244</data>
+      <data key="key2">0.40000000000000002</data>
+      <data key="key3">0.35714285714285715</data>
+      <data key="key4">0.18929215171854055</data>
+      <data key="key7">1</data>
+      <data key="key8">0.037481399163551345</data>
+      <data key="key9">15</data>
+      <data key="key10">0</data>
+      <data key="key12">0.020389061421670122</data>
+    </node>
+    <node id="14">
+      <data key="key0">0.022164502164502137</data>
+      <data key="key1">0.033718983745946424</data>
+      <data key="key2">0.5</data>
+      <data key="key3">0.2857142857142857</data>
+      <data key="key4">0.15286876070395569</data>
+      <data key="key7">1</data>
+      <data key="key8">0.031630981577163673</data>
+      <data key="key9">16</data>
+      <data key="key10">0</data>
+      <data key="key12">0.018935472739820568</data>
+    </node>
+    <node id="16">
+      <data key="key0">0.070324675324675276</data>
+      <data key="key1">0.97709971120756178</data>
+      <data key="key2">1</data>
+      <data key="key3">0.21428571428571427</data>
+      <data key="key4">0.15760041551728729</data>
+      <data key="key7">1</data>
+      <data key="key8">0.0241885964349123</data>
+      <data key="key9">17</data>
+      <data key="key10">0</data>
+      <data key="key12">0</data>
+    </node>
+    <node id="24">
+      <data key="key0">0.070324675324675276</data>
+      <data key="key1">0.0071669971789806216</data>
+      <data key="key2">0.33333333333333331</data>
+      <data key="key3">0.21428571428571427</data>
+      <data key="key4">0.10352906523635133</data>
+      <data key="key7">1</data>
+      <data key="key8">0.025320695009740275</data>
+      <data key="key9">18</data>
+      <data key="key10">0</data>
+      <data key="key12">0.0085446859903381654</data>
+    </node>
+    <node id="9">
+      <data key="key0">0.022164502164502137</data>
+      <data key="key1">0.0071669971789806216</data>
+      <data key="key2">0.33333333333333331</data>
+      <data key="key3">0.2857142857142857</data>
+      <data key="key4">0.10984866431803751</data>
+      <data key="key7">1</data>
+      <data key="key8">0.031879561047949388</data>
+      <data key="key9">19</data>
+      <data key="key10">0</data>
+      <data key="key12">0.009359903381642512</data>
+    </node>
+    <node id="10">
+      <data key="key0">0.0070129870129870316</data>
+      <data key="key1">0.089572380056694115</data>
+      <data key="key2">0.20000000000000001</data>
+      <data key="key3">0.42857142857142855</data>
+      <data key="key4">0.16191898244070579</data>
+      <data key="key7">1</data>
+      <data key="key8">0.045609701040063469</data>
+      <data key="key9">20</data>
+      <data key="key10">0</data>
+      <data key="key12">0.046320738440303655</data>
+    </node>
+    <node id="15">
+      <data key="key0">0.070324675324675276</data>
+      <data key="key1">0.0071669971789806216</data>
+      <data key="key2">0.33333333333333331</data>
+      <data key="key3">0.21428571428571427</data>
+      <data key="key4">0.093689627072799403</data>
+      <data key="key7">1</data>
+      <data key="key8">0.025206921655550153</data>
+      <data key="key9">21</data>
+      <data key="key10">0</data>
+      <data key="key12">0.0089113181504485873</data>
+    </node>
+    <node id="23">
+      <data key="key0">0.070324675324675276</data>
+      <data key="key1">0.20422509827303184</data>
+      <data key="key2">0.66666666666666663</data>
+      <data key="key3">0.21428571428571427</data>
+      <data key="key4">0.11592189544514089</data>
+      <data key="key7">1</data>
+      <data key="key8">0.024624231257234844</data>
+      <data key="key9">22</data>
+      <data key="key10">0</data>
+      <data key="key12">0.0022644927536231885</data>
+    </node>
+    <node id="20">
+      <data key="key0">0.001060606060606051</data>
+      <data key="key1">0.21183715095822955</data>
+      <data key="key2">0.10000000000000001</data>
+      <data key="key3">0.35714285714285715</data>
+      <data key="key4">0.096161825367073822</data>
+      <data key="key6">0.5</data>
+      <data key="key7">1</data>
+      <data key="key8">0.040176905034137456</data>
+      <data key="key9">23</data>
+      <data key="key10">1</data>
+      <data key="key11">1.0</data>
+      <data key="key12">0.034334023464458248</data>
+    </node>
+    <node id="21">
+      <data key="key0">0.070324675324675276</data>
+      <data key="key1">0.0071669971789806216</data>
+      <data key="key2">0.33333333333333331</data>
+      <data key="key3">0.21428571428571427</data>
+      <data key="key4">0.077265939992404026</data>
+      <data key="key7">1</data>
+      <data key="key8">0.025739917238574165</data>
+      <data key="key9">24</data>
+      <data key="key10">0</data>
+      <data key="key12">0.0070652173913043478</data>
+    </node>
+
+   <!-- edges -->
+    <edge id="" source="0" target="3">
+    </edge>
+    <edge id="" source="0" target="4">
+    </edge>
+    <edge id="" source="0" target="6">
+    </edge>
+    <edge id="" source="0" target="8">
+    </edge>
+    <edge id="" source="0" target="11">
+    </edge>
+    <edge id="" source="0" target="13">
+    </edge>
+    <edge id="" source="0" target="17">
+    </edge>
+    <edge id="" source="0" target="18">
+    </edge>
+    <edge id="" source="0" target="19">
+    </edge>
+    <edge id="" source="0" target="22">
+    </edge>
+    <edge id="" source="3" target="1">
+    </edge>
+    <edge id="" source="3" target="2">
+    </edge>
+    <edge id="" source="3" target="4">
+    </edge>
+    <edge id="" source="3" target="5">
+    </edge>
+    <edge id="" source="3" target="6">
+    </edge>
+    <edge id="" source="3" target="7">
+    </edge>
+    <edge id="" source="3" target="8">
+    </edge>
+    <edge id="" source="3" target="11">
+    </edge>
+    <edge id="" source="3" target="12">
+    </edge>
+    <edge id="" source="3" target="13">
+    </edge>
+    <edge id="" source="3" target="14">
+    </edge>
+    <edge id="" source="3" target="16">
+    </edge>
+    <edge id="" source="3" target="24">
+    </edge>
+    <edge id="" source="4" target="2">
+    </edge>
+    <edge id="" source="4" target="5">
+    </edge>
+    <edge id="" source="4" target="9">
+    </edge>
+    <edge id="" source="4" target="10">
+    </edge>
+    <edge id="" source="4" target="14">
+    </edge>
+    <edge id="" source="6" target="2">
+    </edge>
+    <edge id="" source="6" target="7">
+    </edge>
+    <edge id="" source="6" target="8">
+    </edge>
+    <edge id="" source="6" target="10">
+    </edge>
+    <edge id="" source="6" target="11">
+    </edge>
+    <edge id="" source="6" target="15">
+    </edge>
+    <edge id="" source="6" target="16">
+    </edge>
+    <edge id="" source="6" target="19">
+    </edge>
+    <edge id="" source="6" target="23">
+    </edge>
+    <edge id="" source="8" target="12">
+    </edge>
+    <edge id="" source="8" target="17">
+    </edge>
+    <edge id="" source="8" target="23">
+    </edge>
+    <edge id="" source="11" target="14">
+    </edge>
+    <edge id="" source="11" target="16">
+    </edge>
+    <edge id="" source="11" target="17">
+    </edge>
+    <edge id="" source="11" target="18">
+    </edge>
+    <edge id="" source="11" target="21">
+    </edge>
+    <edge id="" source="13" target="5">
+    </edge>
+    <edge id="" source="13" target="20">
+    </edge>
+    <edge id="" source="17" target="20">
+    </edge>
+    <edge id="" source="18" target="12">
+    </edge>
+    <edge id="" source="18" target="22">
+    </edge>
+    <edge id="" source="19" target="2">
+    </edge>
+    <edge id="" source="22" target="12">
+    </edge>
+    <edge id="" source="2" target="5">
+    </edge>
+    <edge id="" source="2" target="12">
+    </edge>
+    <edge id="" source="5" target="7">
+    </edge>
+    <edge id="" source="5" target="9">
+    </edge>
+    <edge id="" source="12" target="23">
+    </edge>
+    <edge id="" source="7" target="9">
+    </edge>
+    <edge id="" source="7" target="10">
+    </edge>
+    <edge id="" source="14" target="21">
+    </edge>
+    <edge id="" source="24" target="10">
+    </edge>
+    <edge id="" source="24" target="20">
+    </edge>
+    <edge id="" source="9" target="15">
+    </edge>
+    <edge id="" source="10" target="15">
+    </edge>
+    <edge id="" source="10" target="20">
+    </edge>
+    <edge id="" source="20" target="21">
+    </edge>
+
+  </graph>
+</graphml>
